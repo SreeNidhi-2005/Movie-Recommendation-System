@@ -1,4 +1,4 @@
-# 🎬 CineMatch AI - Movie Recommendation System
+# 🎬 CineMatch AI - Movie Recommendation System CITS4373
 
 An intelligent **Movie Recommendation System** built using **Collaborative Filtering (SVD)** on the **MovieLens 100K Dataset**. The application predicts movies a user is likely to enjoy based on historical ratings and provides personalized recommendations through an interactive **Streamlit** web application.
 
